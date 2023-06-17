@@ -19,9 +19,7 @@ Neste projeto, utilizei o Pandas para analisar e manipular dados contidos em um 
 
 O projeto abrange os seguintes tópicos relacionados ao Pandas:
 
-*Carregamento de dados de um arquivo CSV em um DataFrame  
-*Exploração e visualização inicial dos dados  
-*Filtragem e seleção de dados
+* Carregamento de dados de um arquivo CSV em um DataFrame  *Exploração e visualização inicial dos dados  *Filtragem e seleção de dados
 
 Ao trabalhar neste projeto, pude obter experiência prática com os comandos e funcionalidades básicas do Pandas.
 
