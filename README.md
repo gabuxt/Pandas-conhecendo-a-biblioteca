@@ -29,9 +29,9 @@ Ao trabalhar neste projeto, pude obter experiência prática com os comandos e f
 
 O projeto consiste nos seguintes arquivos:
 
-Pandas_conhecendo_a_biblioteca.ipynb: O arquivo principal do projeto, onde implementei as operações do Pandas conforme aprendido nas aulas da Alura.
-desafio.ipynb: Um desafio proposto durante as aulas da Alura, no qual tive que utilizar o Pandas para resolver um problema específico relacionado aos dados.
-Dados_apartamento.csv: Um arquivo CSV contendo os dados utilizados no projeto principal e no desafio. Esse arquivo contém as informações que foram carregadas em um DataFrame para análise e manipulação.
+* Pandas_conhecendo_a_biblioteca.ipynb: O arquivo principal do projeto, onde implementei as operações do Pandas conforme aprendido nas aulas da Alura.
+* desafio.ipynb: Um desafio proposto durante as aulas da Alura, no qual tive que utilizar o Pandas para resolver um problema específico relacionado aos dados.
+* Dados_apartamento.csv: Um arquivo CSV contendo os dados utilizados no projeto principal e no desafio. Esse arquivo contém as informações que foram carregadas em um DataFrame para análise e manipulação.
 
 ## Resultados<a name="results"></a>
 
